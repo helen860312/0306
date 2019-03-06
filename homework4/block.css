@@ -1,0 +1,12 @@
+.introduction{
+  width: 300px;
+  margin: auto;
+  background-color: powderblue;
+  color: black;
+}
+.choose{
+  width: 300px;
+  margin: auto;
+  background-color: grey;
+  color: black;
+}
